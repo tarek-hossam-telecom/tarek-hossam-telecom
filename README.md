@@ -29,7 +29,7 @@ I am a passionate student at **WE Applied Technology School**, dedicated to mast
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [tarek-hossam-telecom](https://www.linkedin.com/in/tarek-hossam-telecom)
-- **Email:** [Your Email Here]
+- **Email:** [tarakhossamw@gmail.com]
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tarek-hossam-telecom&show_icons=true&theme=tokyonight" alt="Tarek's GitHub Stats" />
